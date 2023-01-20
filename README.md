@@ -1,5 +1,5 @@
 # Chemical Engineering Modeling
-- Objectives -
+## Objectives -
 The following is a partial list of objectives that you are expected to master by the end of this course. 
 
 - Use python to write a simple code to find the root of an equation using the bisection method.
@@ -17,10 +17,10 @@ The following is a partial list of objectives that you are expected to master by
 - Texts and Materials -
 No text is required for this course.  Instead you must purchase TCLAB TCLAB is an Arduino based electronics lab that has a shield that contains two heaters, two temperature sensors, and an LED. The shield plugs into an Arduino Leonardo that includes a USB interface for real-time data. Using this equipment you will learn programming and conduct several experiments.  In future ChE classes you will learn PID tuning and advanced controls with real-time data. Starting source code and many examples are available in Python, MATLAB, and Simulink.
 - We will be using the following textbooks that you have already purchased:
-### Elementary Principles of Chemical Processes, 4th Ed., R.M. Felder, R.W. Rousseau and Lisa G. Bullard, John Wiley & Sons, New York
-### Transport Processes and Separation Process Principles (Includes Unit Operations), 5th Edition, by Christie J. Geankoplis, A. Allen Hersel, Daniel H. Lepek, Prentice Hall, PTR, 2018.
-### Laptop that can run windows ChE programs:  Excel, Python, Aspen (Windows), and Comsol
-- Tentative Schedule -
+1. Elementary Principles of Chemical Processes, 4th Ed., R.M. Felder, R.W. Rousseau and Lisa G. Bullard, John Wiley & Sons, New York
+2. Transport Processes and Separation Process Principles (Includes Unit Operations), 5th Edition, by Christie J. Geankoplis, A. Allen Hersel, Daniel H. Lepek, Prentice Hall, PTR, 2018.
+3. Laptop that can run windows ChE programs:  Excel, Python, Aspen (Windows), and Comsol
+## Tentative Schedule -
 
 Week
 
