@@ -11,6 +11,8 @@ The following is a partial list of objectives that you are expected to master by
 - Perform linear and nonlinear regressions using Excel and python's SciPy Curve_fit and calculate 95% confidence limits on each parameter as well as the r^2, variance, r^2Adjusted parameters
 - Given a mathematical description of a process numerically solve a momentum balance to determine the pressure drop in a pipeline for a non-newtonian fluid using both python and COMSOL.
 - Use method of lines to solve a diffusion in a slab problem and the python ODE solver solve_ivp.
+- Calculate the propagation of error that results in measuring the flowrate from a volume and time measurement.
+- Optimize the set of equations using the stated constraints given in the Hock Schittkowski problem #71 using Excel and the python packages of SciPy, Gekko and APMonitor.
 - Use spreadsheets (EXCEL), an equation-solving program (Python) and a chemical simulation program (ASPEN) to solve material and energy balance problems.
 - Use spreadsheets (EXCEL), an equation-solving program (Python) and a chemical simulation program (ASPEN) to solve transport problems (Mass, Momentum, and Heat) 
 - Work effectively in problem-solving teams, and carry out meaningful performance assessments of individual team members.
