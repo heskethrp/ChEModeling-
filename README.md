@@ -4,6 +4,7 @@ The following is a partial list of objectives that you are expected to master by
 
 - Use python to write a simple code to find the root of an equation using the bisection method.
 - Examine a Jupyter Notebook with python code and find and correct the errors.
+- Read a simple python code and explain to a high school student the result of running this code.
 - Using a model of diffusion in a Stefan tube, determine the rate of evaporation of a pure liquid into air.  Use python to solve the 2nd order ODE with split boundary conditions.
 - Determine the rate of heat loss from an electrical wire with insulation.
 - Solve for the heat loss from a slab that is heated by radiation on the opposite side.  Resolve, but this time pass additional arguments to the function using the Args command in solve_ivp.
