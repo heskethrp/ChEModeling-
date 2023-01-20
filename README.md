@@ -1,6 +1,5 @@
-# ChEModeling-This director will contain files needed for the class
+# ChEModeling
 - Objectives -
-
 The following is a partial list of objectives that you are expected to master by the end of this course. 
 
 - Given a mathematical description of a process numerically solve a momentum balance to determine the pressure drop in a pipeline for a non-newtonian fluid using both python and COMSOL.
