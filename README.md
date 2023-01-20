@@ -2,15 +2,15 @@
 - Objectives -
 The following is a partial list of objectives that you are expected to master by the end of this course. 
 
+- Use python to write a simple code to find the root of an equation using the bisection method.
+- Using a model of diffusion in a Stefan tube, determine the rate of evaporation of a pure liquid into air.  Use python to solve the 2nd order ODE with split boundary conditions.
+- Determine the rate of heat loss from an electrical wire with insulation.
+- Solve for the heat loss from a slab that is heated by radiation on the opposite side.  Resolve, but this time pass additional arguments to the function using the Args command in solve_ivp.
+- Perform linear and nonlinear regressions using Excel and python's SciPy Curve_fit and calculate 95% confidence limits on each parameter as well as the r^2, variance, r^2Adjusted parameters
 - Given a mathematical description of a process numerically solve a momentum balance to determine the pressure drop in a pipeline for a non-newtonian fluid using both python and COMSOL.
-- Using numerical methods, predict the resultant force on a nozzle given the given the physical dimensions and geometry of the equipment, nature of the fluid (e.g. Newtonian) and inlet velocity and pressure of the fluid.
-- Determine the velocity profile of a non-newtonian fluid through a complex geometry using advanced software tools given a statement of the properties of the fluid, inlet pressure, physical dimensions of the equipment geometry, and momentum balance.
-- Using a model of diffusion in a Stefan tube, determine the rate of evaporation of a pure liquid into air.  
-- Make a plot of the thickness of a Silicon coating on a spherical particle as a function of time. 
-- Solve chemical engineering problems using numerical methods using Excel, python and/or COMSOL.
+- Use method of lines to solve a diffusion in a slab problem and the python ODE solver solve_ivp.
 - Use spreadsheets (EXCEL), an equation-solving program (Python) and a chemical simulation program (ASPEN) to solve material and energy balance problems.
 - Use spreadsheets (EXCEL), an equation-solving program (Python) and a chemical simulation program (ASPEN) to solve transport problems (Mass, Momentum, and Heat) 
-- Perform linear and nonlinear regressions using Excel and python's SciPy Curve_fit and calculate 95% confidence limits on each parameter as well as the r^2, variance, r^2Adjusted parameters
 - Work effectively in problem-solving teams, and carry out meaningful performance assessments of individual team members.
 - Texts and Materials -
 No text is required for this course.  Instead you must purchase TCLAB TCLAB is an Arduino based electronics lab that has a shield that contains two heaters, two temperature sensors, and an LED. The shield plugs into an Arduino Leonardo that includes a USB interface for real-time data. Using this equipment you will learn programming and conduct several experiments.  In future ChE classes you will learn PID tuning and advanced controls with real-time data. Starting source code and many examples are available in Python, MATLAB, and Simulink.
